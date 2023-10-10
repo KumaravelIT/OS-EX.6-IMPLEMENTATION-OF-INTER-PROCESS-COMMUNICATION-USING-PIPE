@@ -62,7 +62,7 @@ return 0;
 
 ## OUTPUT:
 
-![os](https://github.com/dineshdk154/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/104413084/e0705b28-8765-461a-9900-af454324dbe9)
+https://github.com/KumaravelIT/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/blob/main/Web%20capture_10-10-2023_22318_www.programiz.com.jpeg
 
 
 ## RESULT:
