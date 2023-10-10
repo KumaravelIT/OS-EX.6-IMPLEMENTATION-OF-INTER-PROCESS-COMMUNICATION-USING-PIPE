@@ -61,8 +61,8 @@ return 0;
 
 
 ## OUTPUT:
-![Screenshot 2023-10-08 192144](https://github.com/Priyadharshini-Er/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/119558093/99e07512-f728-48fe-ae57-63502a0d8530)
 
+"C:\Users\dines\OneDrive\Pictures\Screenshots\os.png"
 
 ## RESULT:
 Thus, IPC using pipes mechanisms is illustrated using c program successfully
